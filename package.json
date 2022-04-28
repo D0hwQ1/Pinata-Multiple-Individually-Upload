@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "@pinata/sdk": "^1.1.25"
+    }
+}
